@@ -54,6 +54,7 @@ Proyek ini adalah implementasi sistem pemesanan tiket pesawat menggunakan **Desi
      ```
 
    - Output
+
      ![image](https://github.com/user-attachments/assets/53c29449-b4b8-4dbe-95eb-29b0b4b02953)
 
 2. **Error Message No Tiket Kurang dari 6**:
@@ -65,6 +66,7 @@ Proyek ini adalah implementasi sistem pemesanan tiket pesawat menggunakan **Desi
      ```
 
    - Output
+
      ![image](https://github.com/user-attachments/assets/314e29b8-4436-47d0-9cfd-5c961515f028)
 
 3. **Error Message Nama Penumpang Kosong**:
@@ -76,6 +78,7 @@ Proyek ini adalah implementasi sistem pemesanan tiket pesawat menggunakan **Desi
      ```
 
    - Output
+
      ![image](https://github.com/user-attachments/assets/5365bdeb-2e1f-47d5-8fee-3ec48068ebd6)
 
 4. **Error Message Usia Penumpang dibawah 18 Tahun**:
@@ -87,6 +90,7 @@ Proyek ini adalah implementasi sistem pemesanan tiket pesawat menggunakan **Desi
      ```
 
    - Output
+
      ![image](https://github.com/user-attachments/assets/0594f77d-236b-4494-93f6-1bd357e1dcb2)
 
 5. **Error Message Kelas Penerbangan Tidak Valid**:
@@ -98,5 +102,5 @@ Proyek ini adalah implementasi sistem pemesanan tiket pesawat menggunakan **Desi
      ```
 
    - Output
-     ![image](https://github.com/user-attachments/assets/f61e2390-beb6-4018-8d73-70097fa2d82a)
 
+     ![image](https://github.com/user-attachments/assets/f61e2390-beb6-4018-8d73-70097fa2d82a)
